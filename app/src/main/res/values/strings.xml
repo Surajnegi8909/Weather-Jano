@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Weather Jano</string>
+    <string-array name="brew_array">
+        <item>Dayal Pur</item>
+        <item>Tilak Nagar</item>
+        <item>Jama Masjid</item>
+        <item>Noida</item>
+        <item>Alipur</item>
+        <item>Chhatarpur</item>
+        <item>Mustafabad</item>
+        <item>Saidabad</item>
+        <item>Andheri</item>
+        <item>Borivali</item>
+        <item>Dahisar</item>
+        <item>Goregaon</item>
+        <item>Kandivali west</item>
+        <item>Khar</item>
+        <item>Guwahati</item>
+    </string-array>
+</resources>
